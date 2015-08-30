@@ -13,7 +13,7 @@
         android:id="@+id/filter"
         android:icon="@drawable/ic_action_filter"
         android:title="@string/filter"
-        app:showAsAction="ifRoom">
+        app:showAsAction="never">
         <menu>
             <group android:checkableBehavior="single">
                 <item
