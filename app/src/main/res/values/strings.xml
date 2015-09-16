@@ -4,7 +4,12 @@
     <!--New Strings-->
     <string name="updatetitle">Update Info (What\'s new)</string>
     <string name="updatesumm">Information about this version of Aperture</string>
-    <string name="updatedialog">Updated to 0.5 - Beta: First Public Release</string>
+    <string name="updatedialog"><![CDATA[<b>Updated to 0.5 - B: First Public Release</b>
+    <br/><br/>
+    Next Update: 0.7 - B: Google Cast Support, and Watch Face for Android Wear.
+    <br/><br/>
+    Next Major Update: 1.0 - R: Camera Support, Google Drive and Dropbox Support, and editing features.
+    ]]></string>
     <string name="desc">People that helped make this possible</string>
     <string name="credits">Credits</string>
     <string name="fabcolour">Fab Colour</string>
@@ -12,7 +17,7 @@
     <string name="cred_desc"><![CDATA[ Based off of <b> <a href=\'https://github.com/afollestad/impression\'>Impression</a></b> by <b><a href=\'https://google.com/+AidanFollestad\'>Aidan Follestad</a></b>.<br/><br/>
     Testing and Feedback - Galaxy Series: <b>TL</b> <br/><br/>
     Testing and Feedback - Moto X Series: <b>Virgil Shepard</b><br/><br/>
-    Icon Design: <b><a href=\'https://plus.google.com/+ChristophLaier/auto\'>Christoph Laier</a><b/>
+    Icon Design and Store Graphic: <b><a href=\'https://plus.google.com/+ChristophLaier/auto\'>Christoph Laier</a><b/>
     ]]></string>
     <!--END-->
     <string name="app_name">Aperture</string>
@@ -39,11 +44,11 @@
     <string name="about">About</string>
     <string name="about_body"><![CDATA[
         <b>Aperture</b>, a material design gallery replacement developed by <b>Marlon Jones</b>.<br/>
-       <a href=\'https://play.google.com/store/apps/dev?id=8037142226626699695\'>Google Play</a>&nbsp;&nbsp;
+      <b> <a href=\'https://play.google.com/store/apps/dev?id=8037142226626699695\'>Google Play</a>&nbsp;&nbsp;
         <a href=\'https://plus.google.com/+MarlonJones\'>Google+</a>&nbsp;&nbsp;
         <a href=\'https://github.com/VirusThePanda\'>GitHub</a>&nbsp;&nbsp;
-        <a href=\'https://github.com/VirusThePanda/Aperture-Gallery\'>Source Code</a></b><br/><br/>
-To report any bugs, please email <b>marlonjones234@gmail.com</b>. This app is also on GitHub, so you can report an issue through there too, or make a Pull Request or Fork and contribute to the development of this app :)
+        <a href=\'https://github.com/VirusThePanda/Aperture-Gallery\'>Source Code</a></b><br/><br/></b>
+To report any bugs, please email <b>marlonjones234@gmail.com</b>, or <b> <a href=\'https://plus.google.com/u/0/communities/116518857170051710391\'>Join the community</a> :)
     ]]></string>
     <string name="dismiss">Dismiss</string>
 

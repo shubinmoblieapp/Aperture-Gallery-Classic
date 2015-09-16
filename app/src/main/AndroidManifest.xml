@@ -17,7 +17,7 @@
     <application
         android:name="com.marlonjones.aperture.App"
         android:allowBackup="true"
-        android:icon="@drawable/ic_launcher"
+        android:icon="@mipmap/ic_launcher_beta"
         android:label="@string/app_name"
         android:supportsRtl="true"
         tools:ignore="UnusedAttribute">
