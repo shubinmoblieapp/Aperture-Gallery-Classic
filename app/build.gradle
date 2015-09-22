@@ -17,7 +17,7 @@ android {
         applicationId "com.marlonjones.aperture"
         minSdkVersion 16
         targetSdkVersion 23
-        versionCode 63
+        versionCode 60
         versionName "0.5-B"
     }
     buildTypes {
