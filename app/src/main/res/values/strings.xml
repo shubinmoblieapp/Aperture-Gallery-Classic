@@ -87,9 +87,9 @@ To report any bugs, please email <b>marlonjones234@gmail.com</b>, or <b> <a href
     <string name="filtering_photos">Filter: Photos</string>
     <string name="filtering_videos">Filter: Videos</string>
     <string name="explorer_mode">File Explorer Mode</string>
-    <string name="local" translatable="false">Aperture</string>
-    <string name="google_drive" translatable="false">Google Drive</string>
-    <string name="dropbox" translatable="false">Dropbox</string>
+    <string name="local">Aperture</string>
+    <string name="google_drive">Google Drive</string>
+    <string name="dropbox">Dropbox</string>
     <string name="add_account">Add an account…</string>
     <string name="accounts">Accounts</string>
     <string name="view_mode">View Mode</string>
@@ -113,14 +113,14 @@ To report any bugs, please email <b>marlonjones234@gmail.com</b>, or <b> <a href
     <string name="contrast">Contrast</string>
     <string name="crossprocess">Cross Process</string>
     <string name="documentary">Documentary</string>
-    <string name="duotone" translatable="false">Duo Tone</string>
+    <string name="duotone">Duo Tone</string>
     <string name="filllight">Fill Light</string>
     <string name="fisheye">Fish Eye</string>
     <string name="grain">Grain</string>
     <string name="grayscale">Black &amp; White</string>
-    <string name="lomoish" translatable="false">Lomoish</string>
+    <string name="lomoish">Lomoish</string>
     <string name="negative">Negative</string>
-    <string name="posterize" translatable="false">Posterize</string>
+    <string name="posterize">Posterize</string>
     <string name="rotate">Rotate</string>
     <string name="saturate">Saturate</string>
     <string name="sepia">Sepia</string>
@@ -185,12 +185,12 @@ To report any bugs, please email <b>marlonjones234@gmail.com</b>, or <b> <a href
     </string-array>
 
     <string name="grid_size">Grid Size</string>
-    <string name="one_num" translatable="false">1</string>
-    <string name="two_num" translatable="false">2</string>
-    <string name="three_num" translatable="false">3</string>
-    <string name="four_num" translatable="false">4</string>
-    <string name="five_num" translatable="false">5</string>
-    <string name="six_num" translatable="false">6</string>
+    <string name="one_num">1</string>
+    <string name="two_num">2</string>
+    <string name="three_num">3</string>
+    <string name="four_num">4</string>
+    <string name="five_num">5</string>
+    <string name="six_num">6</string>
 
     <string name="one_photo">1 photo</string>
     <string name="one_video">1 video</string>

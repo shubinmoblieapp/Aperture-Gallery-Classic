@@ -66,9 +66,9 @@
     <string name="flip_horizontal">Odwróć poziomo</string>
     <string name="flip_vertical">Odwróć pionowo</string>
     <string name="folder">Folder</string>
-    <string name="font_fontFamily_medium" translatable="false"></string>
+    <string name="font_fontFamily_medium">sans-serif-medium</string>
     <string name="go_up">Idź wyżej...</string>
-    <string name="google_drive"></string>
+    <string name="google_drive">Google Drive</string>
     <string name="grain">Szum</string>
     <string name="grayscale">Czerń i biel</string>
     <string name="grid_size">Rozmiar siatki</string>
@@ -81,8 +81,8 @@
     <string name="info">Szczegóły</string>
     <string name="internal_storage">Pamięć wewnętrzna</string>
     <string name="invalid_file_path_error">Plik nie istnieje, lub Aperture nie ma wystarczających uprawnień dla pliku :(</string>
-    <string name="lomoish"></string>
-    <string name="local"></string>
+    <string name="lomoish">Lomoish</string>
+    <string name="local">Aperture</string>
     <string name="modified_asc">Data rosnąco</string>
     <string name="modified_desc">Data malejąco</string>
     <string name="move_to">Przenieś do...</string>
@@ -110,7 +110,7 @@
     <string name="photos">Zdjęcia</string>
     <string name="permission_needed_desc">Wymagane są uprawnienia, aby uzyskać dostęp do pamięci telefonu oraz aparatu. Program Aperture zostanie zamknięty.</string>
     <string name="pick_something">Wybierz coś...</string>
-    <string name="posterize"></string>
+    <string name="posterize">Posteryzacja</string>
     <string name="primary_color">Kolor główny</string>
     <string name="primary_color_desc">Wybierz główny kolor skórki</string>
     <string name="print">Drukuj</string>
@@ -128,7 +128,7 @@
     <string name="share">Udostępnij</string>
     <string name="share_using">Udostępnij przy pomocy...</string>
     <string name="sharpen">Wyostrzenie</string>
-    <string name="six_num"></string>
+    <string name="six_num">6</string>
     <string name="slideshow">Pokaz slajdów</string>
     <string name="slideshow_loop"> Zapętlony pokaz slajdów</string>
     <string name="slideshow_seeklabel">%1$d sekund pomiędzy każdym slajdem</string>
@@ -155,4 +155,10 @@
     <string name="personalization">Personalizacja</string>
     <string name="folders">Foldery</string>
     <string name="views">Widoki</string>
+    <string name="three_num" translatable="false">3</string>
+    <string name="two_num" translatable="false">2</string>
+    <string name="one_num" translatable="false">1</string>
+    <string name="four_num" translatable="false">4</string>
+    <string name="five_num" translatable="false">5</string>
+    <string name="duotone" translatable="false">Duo Tone</string>
 </resources>
