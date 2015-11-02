@@ -38,7 +38,7 @@
     <item
         android:id="@+id/viewMode"
         android:icon="@drawable/ic_action_view_grid"
-        android:title="Change View"
+        android:title="@string/change_view"
         app:showAsAction="never" />
 
     <item
