@@ -6,10 +6,14 @@ distracting Photo Gallery. Right now, it is still in BETA, but more features are
 intergration, and a photo editor. 
 Note: This project has been put on hold as I have been asked to help work on Impression. Due to this, Aperture may not recieve many
 more updates. Users of Aperture will be directed to download Impression, but may continue to use Aperture if they so choose to. 
+
 ===========================================================
 Download: https://play.google.com/store/apps/details?id=com.marlonjones.aperture
+
 ALPHA Test (Test features before going to BETA): https://play.google.com/apps/testing/com.marlonjones.aperture
+
 Community: https://plus.google.com/u/0/communities/116518857170051710391
+
 ===========================================================
 Contribution to this project is greatly welcomed. Also, please check out the original source code, Impression.
 
