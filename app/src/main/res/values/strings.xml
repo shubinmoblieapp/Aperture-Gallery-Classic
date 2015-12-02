@@ -209,5 +209,9 @@ To report any bugs, please email <b>marlonjones234@gmail.com</b>, or <b> <a href
     <string name="permission_needed">Permission Needed</string>
     <string name="permission_needed_desc">Permission to access your phone\'s storage is needed in order to view photos! Permission for your camera is needed to take pictures! Aperture will now close. </string>
     <string name="back">Back</string>
+    <string name="change_view">Change View</string>
+    <string name="personalization">Personalization</string>
+    <string name="folders">Folders</string>
+    <string name="views">Views</string>
 
 </resources>
