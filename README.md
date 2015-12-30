@@ -1,5 +1,4 @@
 ##Aperture
-===========================================================
 Based (with permission) off of Impression by Aidan Follestad (@afollestad), Aperture was developed for the purpose of making a beautiful, yet non-
 distracting Photo Gallery. Right now, it is still in BETA, but more features are coming soon, including Google Drive and Dropbox
 intergration, and a photo editor. 
