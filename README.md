@@ -15,7 +15,6 @@ I am also in the process of remaking this app and making it better.
 <a href="https://play.google.com/apps/testing/com.marlonjones.aperture">ALPHA Test</a>
 
 <a href="https://plus.google.com/u/0/communities/116518857170051710391">Community (Google+)</a>
-
 ===========================================================
 Contribution to this project is greatly welcomed. Also, please check out the original source code, Impression.
 ```` 
