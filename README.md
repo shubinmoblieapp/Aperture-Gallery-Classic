@@ -1,4 +1,6 @@
 ##Aperture
+Important: Even though this project is *oficially* on hold, I am working on a completly new version of Aperture.
+===============================================================================================================
 Based (with permission) off of Impression by Aidan Follestad (@afollestad), Aperture was developed for the purpose of making a beautiful, yet non-
 distracting Photo Gallery. Right now, it is still in BETA, but more features are coming soon, including Google Drive and Dropbox
 intergration, and a photo editor. 
@@ -8,16 +10,16 @@ more updates. Users of Aperture will be directed to download Impression, but may
 I am also in the process of remaking this app and making it better. 
 
 ===========================================================
-Download: https://play.google.com/store/apps/details?id=com.marlonjones.aperture
+<a href="https://play.google.com/store/apps/details?id=com.marlonjones.aperture">Download</a>
 
-ALPHA Test (Test features before going to BETA): https://play.google.com/apps/testing/com.marlonjones.aperture
+<a href="https://play.google.com/apps/testing/com.marlonjones.aperture">ALPHA Test</a>
 
-Community: https://plus.google.com/u/0/communities/116518857170051710391
+<a href="https://plus.google.com/u/0/communities/116518857170051710391">Community (Google+)</a>
 
 ===========================================================
 Contribution to this project is greatly welcomed. Also, please check out the original source code, Impression.
 
-#Licensed under GPLv3
+
 ```` 
 Copyright (c) 2015 Marlon Jones
 
