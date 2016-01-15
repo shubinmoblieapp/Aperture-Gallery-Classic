@@ -18,8 +18,6 @@ I am also in the process of remaking this app and making it better.
 
 ===========================================================
 Contribution to this project is greatly welcomed. Also, please check out the original source code, Impression.
-
-
 ```` 
 Copyright (c) 2015 Marlon Jones
 
