@@ -1,7 +1,7 @@
 ##Aperture
-===============================================================================================================
+
 Based (with permission) off of *an older build* of Impression by Aidan Follestad, Daniel Ciao, and Marlon Jones, Aperture was developed for the purpose of making a beautiful, yet non-distracting Photo Gallery.
-===========================================================
+
 <a href="https://play.google.com/store/apps/details?id=com.marlonjones.aperture">Download</a>
 
 ~~<a href="https://play.google.com/apps/testing/com.marlonjones.aperture">ALPHA Test</a>~~
