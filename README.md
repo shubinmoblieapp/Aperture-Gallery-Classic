@@ -1,5 +1,6 @@
 ##Aperture 
-[![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://github.com/VirusThePanda/Aperture-Gallery/blob/master/LICENSE.txt)[!travis-ci](https://travis-ci.org/VirusThePanda/Aperture-Gallery.svg?branch=master)
+[![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://github.com/VirusThePanda/Aperture-Gallery/blob/master/LICENSE.txt)
+[![travis-ci](https://travis-ci.org/VirusThePanda/Aperture-Gallery.svg?branch=master)](https://travis-ci.org/VirusThePanda/Aperture-Gallery)
 
 Forked (with permission) off of *an older build* of Impression by Aidan Follestad, Daniel Ciao, and Marlon Jones, Aperture was developed for the purpose of making a beautiful, yet non-distracting Photo Gallery.
 
