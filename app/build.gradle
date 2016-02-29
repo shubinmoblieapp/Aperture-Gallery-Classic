@@ -4,14 +4,6 @@ android {
     compileSdkVersion 23
     buildToolsVersion "23.0.1"
 
-    signingConfigs {
-        production {
-            keyAlias 'afollestad'
-            keyPassword 'opensource'
-            storeFile file('../keystore.jks')
-            storePassword 'opensource'
-        }
-    }
 
     defaultConfig {
         applicationId "com.marlonjones.aperture"
