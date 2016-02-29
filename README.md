@@ -1,4 +1,4 @@
-##Aperture 
+##Aperture Gallery
 [![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://github.com/VirusThePanda/Aperture-Gallery/blob/master/LICENSE.txt)
 [![travis-ci](https://travis-ci.org/VirusThePanda/Aperture-Gallery.svg?branch=master)](https://travis-ci.org/VirusThePanda/Aperture-Gallery)
 
