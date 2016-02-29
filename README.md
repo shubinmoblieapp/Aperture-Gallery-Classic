@@ -1,23 +1,18 @@
 ##Aperture
-Important: Even though this project is *oficially* on hold, I am working on a completly new version of Aperture.
 ===============================================================================================================
-Based (with permission) off of Impression by Aidan Follestad (@afollestad), Aperture was developed for the purpose of making a beautiful, yet non-
-distracting Photo Gallery. Right now, it is still in BETA, but more features are coming soon, including Google Drive and Dropbox
-intergration, and a photo editor. 
-
-Note: This project has been put on hold as I have been asked to help work on Impression, and I am backed up with other projects and School. Due to this, Aperture may not recieve many
-more updates. Users of Aperture will be directed to download Impression, but may continue to use Aperture if they so choose to. 
-I am also in the process of remaking this app and making it better. 
-
+Based (with permission) off of *an older build* of Impression by Aidan Follestad, Daniel Ciao, and Marlon Jones, Aperture was developed for the purpose of making a beautiful, yet non-distracting Photo Gallery.
 ===========================================================
 <a href="https://play.google.com/store/apps/details?id=com.marlonjones.aperture">Download</a>
 
-<a href="https://play.google.com/apps/testing/com.marlonjones.aperture">ALPHA Test</a>
+~~<a href="https://play.google.com/apps/testing/com.marlonjones.aperture">ALPHA Test</a>~~
 
 <a href="https://plus.google.com/u/0/communities/116518857170051710391">Community (Google+)</a>
 
 ===========================================================
-Contribution to this project is greatly welcomed. Also, please check out the original source code, Impression.
+Important: Because of a corrupted keystore, I am unable to update the Google Play version of Aperture. To compensate for this, I 
+am currently developing two new versions of Aperture, named Aperture Mini and Aperture 2 (Titles are a WIP). I will upload an APK
+to this repo every so often, but as of now, even with occasional APK updates, *this project is officially abandoned. Not by choice, 
+but due to the circumstances that have happened.* Of course, the Source Code is still free to use, but please respect th GPLv3. 
 ```` 
 Copyright (c) 2015 Marlon Jones
 
