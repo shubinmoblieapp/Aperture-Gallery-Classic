@@ -1,4 +1,5 @@
-##Aperture [![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://github.com/VirusThePanda/Aperture-Gallery/blob/master/LICENSE.txt)
+##Aperture 
+[![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://github.com/VirusThePanda/Aperture-Gallery/blob/master/LICENSE.txt)
 
 Forked (with permission) off of *an older build* of Impression by Aidan Follestad, Daniel Ciao, and Marlon Jones, Aperture was developed for the purpose of making a beautiful, yet non-distracting Photo Gallery.
 
