@@ -1,6 +1,6 @@
 ##Aperture Gallery
 [![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://github.com/VirusThePanda/Aperture-Gallery/blob/master/LICENSE.txt)
-[![travis-ci](https://travis-ci.org/VirusThePanda/Aperture-Gallery.svg?branch=master)](https://travis-ci.org/VirusThePanda/Aperture-Gallery)
+[![travis-ci](https://travis-ci.org/MJonesDev/Aperture-Gallery.svg?branch=master)](https://travis-ci.org/VirusThePanda/Aperture-Gallery)
 
 Forked (with permission) off of *an older build* of Impression by Aidan Follestad, Daniel Ciao, and Marlon Jones, Aperture was developed for the purpose of making a beautiful, yet non-distracting Photo Gallery.
 
@@ -12,6 +12,5 @@ Forked (with permission) off of *an older build* of Impression by Aidan Follesta
 
 ===========================================================
 Important: Because of a corrupted keystore, I am unable to update the Google Play version of Aperture. To compensate for this, I 
-am currently developing two new versions of Aperture, named Aperture Mini and Aperture 2 (Titles are a WIP). I will upload an APK
-to this repo every so often, but as of now, even with occasional APK updates, *this project is officially abandoned. Not by choice, 
+am currently developing two new versions of Aperture, named Aperture Mini and Aperture 2 (Titles are a WIP) so as of now, *this project is officially abandoned. Not by choice, 
 but due to the circumstances that have happened.* Of course, the Source Code is still free to use, but please respect the GPLv3. 
