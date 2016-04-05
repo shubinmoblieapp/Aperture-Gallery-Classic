@@ -12,5 +12,5 @@ Forked (with permission) off of *an older build* of Impression by Aidan Follesta
 
 ===========================================================
 Important: Because of a corrupted keystore, I am unable to update the Google Play version of Aperture. To compensate for this, I 
-am currently developing two new versions of Aperture, named Aperture Mini and Aperture 2 (Titles are a WIP) so as of now, *this project is officially abandoned. Not by choice, 
+am currently developing two new versions of Aperture, named Aperture Mini and Aperture 2 (Titles are a WIP) so as of now, *this project is officially DISCONTINUED. Not by choice, 
 but due to the circumstances that have happened.* Of course, the Source Code is still free to use, but please respect the GPLv3. 
